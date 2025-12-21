@@ -56,32 +56,32 @@ with the post.
 
 Start with the DC-DC converter board.
 
-![step 6 install boards, view A](./pics/006-A_install_boards.jpeg)
+![step 6 install boards, view A](./pics/006-A_Install_boards.jpeg)
 
 Then position the USB-C connector in the charger plate and snap the board into the post.
 
-![step 6 install boards, view B](./pics/006-B_install_boards.jpeg)
+![step 6 install boards, view B](./pics/006-B_Install_boards.jpeg)
 
 ### Step 7 - Wire the switch
 
-![step 7 wire the switch, view A](./pics/007-A_switch_wiring.jpeg)
+![step 7 wire the switch, view A](./pics/007-A_Switch_wiring.jpeg)
 
-![step 7 wire the switch, view B](./pics/007-B_switch_wiring.jpeg)
+![step 7 wire the switch, view B](./pics/007-B_Switch_wiring.jpeg)
 
 ### Step 8 - Glue the G4 socket
 
 Holding the socket out of the way (and not getting burned!), squirt a blob of hot glue
 into the socket hole and quickly push in the socket and seat it.
 
-![step 8 hot glue the G4 socket](./pics/008-G4_socket.jpeg)
+![step 8 hot glue the G4 socket](./pics/008-G4_Socket.jpeg)
 
 ### Step 9 - Hot glue switch
 
 Use hot glue to cover the switch posts, the JST wires, and the top of the USB charger module.
 
-![step 9 hot glue switch view A](./pics/009-A_hot_glue_switch.jpeg)
+![step 9 hot glue switch view A](./pics/009-A_Hot_glue_switch.jpeg)
 
-![step 9 hot glue switch view B](./pics/009-B_hot_glue_switch.jpeg)
+![step 9 hot glue switch view B](./pics/009-B_Hot_glue_switch.jpeg)
 
 ### Step 10 - Wire the G4 socket
 
