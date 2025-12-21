@@ -15,7 +15,7 @@ The battery and charger used are specified to detect short conditions and overhe
 always use caution when working with these devices!
 
 The design choices were influenced by size and common availability. Everything is available
-through Amazon, maybe other channels. The electrical components are [here](electrical.md)
+through Amazon, maybe other channels. The electrical components are [here](electrical/electrical.md)
 
 The LED bulb uses a standard 12v G4 socket. There is a charger for the single LiPo cell
 and a DC to DC converter to boost the battery voltage to 12v.
