@@ -1,4 +1,5 @@
 # Antique inspired candlestick holder
+![Flickering LED candle video](pics/flicker-candle.gif)
 
 This project started with a restoration and modernization to an antique candlestick holder
 that my grandfather made. I adoped some of the design elements as an homage to his work,

@@ -1,0 +1,5 @@
+*.gcode
+*.stl
+
+# Allow STL files in their directory
+!STL-models/*.stl
