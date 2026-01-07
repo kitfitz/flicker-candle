@@ -64,7 +64,7 @@ cup feature. Researching the design in different periods led to see that grandad
 fan of the 18th Century Victorian style. The beaded ring feature is from that period and
 was kept in the cup design to echo the base. The base I designed kept the beaded ring
 feature, but has a simple flower theme instead of the intricate filigree of the original.
-The bees in the corners follow the flower theme and also remind me that grandad kept bees.
+I thought bees in the corners would be a good accent to the flower.
 
 The design of the candle constrained to the "correct" dimensions was a little challenging.
 The LiPo battery cell just fits nicely with room on each side for the required wires to
