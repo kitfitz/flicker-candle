@@ -6,6 +6,8 @@ that my grandfather made. I adoped some of the design elements as an homage to h
 but used a style all my own. The sections below detail each aspect required to build your
 own copy and a bit more about the history for those interested.
 
+<div style="page-break-after: always;"></div>
+
 ## Electrical components
 
 ![Battery Danger warning label](pics/battery-warning.png)
