@@ -177,11 +177,21 @@ translate([0, 0, base_to_bot])
 }
 
 // Add the handle
-translate([base_width/2, 0, base_to_bot-base_wall_thk/2])
+translate([base_width/2, 0, base_to_bot - (handle_thk - base_wall_thk/2)])
 {
    handle();
 }
 
+// Add a pad to match the handle thickness
+difference()
+{
+   translate([base_width/2-handle_pad_depth, -handle_wide_width/2, (base_to_bot -base_wall_thk/2) - handle_pad_thk])
+   {
+      cube([handle_pad_depth, handle_wide_width, handle_pad_thk]);
+   }
+
+   cylinder(h=base_to_bot, d=base_ring_dia);
+}
 
 // Beads around the main bowl
 translate([ 0, 0, base_to_bot-bead_dia/2])

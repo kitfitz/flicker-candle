@@ -157,7 +157,9 @@ base_ring_thk = base_wall_thk;
 base_corner_cut = 8;
 base_pedestal_height = 4;
 
-handle_thk = base_wall_thk;
+handle_thk = 6;
+handle_pad_thk = handle_thk - base_wall_thk;
+handle_pad_depth = 10;
 
 handle_narrow_width = 10;
 handle_wide_width = 20;
@@ -165,10 +167,10 @@ handle_wide_width = 20;
 handle_rad1 = 20;
 handle_ang1 = 90;
 
-handle_rad2 = 10;
+handle_rad2 = 11.5;
 handle_ang2 = 180;
 
-handle_height = 25;
+handle_height = 22;
 
 handle_rad3 = 20;
 handle_ang3 = 30;
